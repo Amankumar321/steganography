@@ -47,3 +47,8 @@ Users extracts data and decrypts image and recovers the original image back
 4. All other images are created during execution of program
 5. Owner's message can be changed in owner.py with variable "message"
 5. Server's message can be changed in server.py with variable "data"
+
+# About paper #
+
+Reversible Data Hiding_in Encrypted Images With Dual Data Embedding
+https://ieeexplore.ieee.org/document/8968332
