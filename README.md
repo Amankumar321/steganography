@@ -50,5 +50,5 @@ Users extracts data and decrypts image and recovers the original image back
 
 # About paper #
 
-Reversible Data Hiding_in Encrypted Images With Dual Data Embedding
+Reversible Data Hiding in Encrypted Images With Dual Data Embedding
 https://ieeexplore.ieee.org/document/8968332
